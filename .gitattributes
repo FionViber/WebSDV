@@ -1,0 +1,10 @@
+*.bin binary
+*.dat binary
+*.ogg binary
+*.png binary
+*.rfn binary
+*.sgm binary
+*.tar* binary
+*.ttf binary
+*.wasm* binary
+*.wav binary
